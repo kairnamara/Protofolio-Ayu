@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Gilda+Display&display=swap");
+
+::-webkit-scrollbar {
+  width: 0px;
+  height: 0px;
+}
+
+body {
+  background-image: url("../img/sea_bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  height: 100vh;
+  margin: 0;
+  background-color: black;
+  color: white;
+  font-family: "Gilda Display", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h5 {
+  color: black !important;
+}
+.text-dark {
+  color: black !important;
+}
+
+#description {
+  font-family: "Judson", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 25px;
+  color: white;
+}
+
+#modal-project {
+  background-color: #35485e !important;
+  color: white;
+}
+
+a {
+  color: black;
+}
